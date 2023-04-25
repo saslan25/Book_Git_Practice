@@ -2,4 +2,4 @@ Today is Monday
 
 it was a great day
 
-editor: dd more about the story
+editor: add more about the story
